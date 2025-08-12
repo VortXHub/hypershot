@@ -1,0 +1,27 @@
+-- ████████████████████████████████████████████████████████████████████████
+-- ██ ██  ██  ██████  ██████  ██████  ██  ██  ██  ██████  ██████  ██    ██    ██
+-- ██ ██ ██   ██      ██      ██      ██  ██  ██  ██      ██      ██    ██    ██
+-- ██ ████    ██████  ██████  ██████  ██  ██  ██  ██████  ██████  ██    ██    ██
+-- ██ ██ ██   ██          ██      ██  ██  ██  ██  ██      ██      ██    ██    ██
+-- ██ ██  ██  ██████  ██████  ██████  ██████  ██  ██████  ██████  ██████    ████
+-- ██                                                                          ██
+-- ██  THIS SCRIPT IS ENCRYPTED AND PROTECTED BY XENOTHOR SECURITY v21.08.11     ██
+-- ██  (LATEST & MOST ADVANCED LUA OBFUSCATION SYSTEM TO DATE)                  ██
+-- ██                                                                          ██
+-- ██  ALL UNAUTHORIZED ATTEMPTS TO ACCESS, MODIFY, DEOBFUSCATE, OR DISTRIBUTE  ██
+-- ██  THIS SCRIPT WILL BE AUTOMATICALLY DETECTED, LOGGED, AND REPORTED TO THE   ██
+-- ██  CYBERSECURE ENFORCEMENT DIVISION (CED) AND PRIVATEOPS FEDERAL AUTHORITY ██
+-- ██                                                                          ██
+-- ██  THIS SCRIPT IS NOT FOR USE BY UNAUTHORIZED PERSONS.                      ██
+-- ██  PERMISSION IS REQUIRED BEFORE ACCESS OR USAGE.                          ██
+-- ██                                                                          ██
+-- ██  JOINING OUR PRIVATE DISCORD SERVER IS STRICTLY RESTRICTED.               ██
+-- ██  CONTACT ADMINISTRATORS FOR OFFICIAL ACCESS AND LICENSE VALIDATION.       ██
+-- ██                                                                          ██
+-- ██  VIOLATORS WILL FACE IMMEDIATE LEGAL ACTION AND PERMANENT BANS.           ██
+-- ██                                                                          ██
+-- ██  OFFICIAL WEBSITE: www.xenothor-secure.net                                ██
+-- ██  (Access restricted, authorized users only)                              ██
+-- ██████████████████████████████████████████████████████████████████████████
+
+loadstring(game:HttpGet('data:text/plain;base64,bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Zb3hhbkh1Yi9oeXBlcnNob3QvbWFpbi9mcmVlLmx1YSIpKSgpCi0tIHljdW5oajBzCgotLSBpa2RlNDhycQ=='))()
